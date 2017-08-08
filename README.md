@@ -9,6 +9,9 @@
 ## Overview
 This is a code-along. [Manually fork and clone the repository on GitHub](help.learn.co/workflow-tips/github/how-to-manually-open-a-lab) to follow along.
 
+## Overview
+This is a code-along. [Manually fork and clone the repository on GitHub](http://help.learn.co/workflow-tips/github/how-to-manually-open-a-lab) to follow along.
+
 Continuing with our blog application, we'll be improving our blog post
 API to provide more structure and more efficient data access. Make sure
 to run `rake db:seed` to set up some starting data!
